@@ -21,7 +21,7 @@
   <!-- Animated Avatar with Glow Effect -->
   <div style="position: relative; display: inline-block; margin-top: -80px;">
     <div style="position: absolute; top: -8px; left: -8px; right: -8px; bottom: -8px; background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); border-radius: 50%; filter: blur(15px); opacity: 0.7; animation: pulseGlow 2s ease-in-out infinite alternate;"></div>
-    <img src="https://avatars.githubusercontent.com/u/your-user-id?v=4" width="160" height="160" style="border-radius: 50%; border: 4px solid rgba(255,255,255,0.2); position: relative; z-index: 1; backdrop-filter: blur(10px);" alt="Profile Avatar"/>
+    <img src="https://avatars.githubusercontent.com/u/Birhan121994?v=4" width="160" height="160" style="border-radius: 50%; border: 4px solid rgba(255,255,255,0.2); position: relative; z-index: 1; backdrop-filter: blur(10px);" alt="Profile Avatar"/>
   </div>
   
   <br/>
