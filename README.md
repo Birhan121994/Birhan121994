@@ -14,25 +14,19 @@
 <div align="center">
   
   <!-- Animated Gradient Background Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,19,24&height=250&section=header&text=Birhan%20Nega&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Architecting%20Intelligence%20%7C%20Building%20Tomorrow&descAlignY=55&descSize=18&stroke=000000&strokeWidth=0.5" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,19,24&height=250&section=header&text=Birhan%20Tamiru&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Architecting%20Intelligence%20%7C%20Building%20Tomorrow&descAlignY=55&descSize=18&stroke=000000&strokeWidth=0.5" width="100%"/>
   
   <br/>
+  <div align="center">
+
+| <img width="100px" src="https://img.icons8.com/fluency/96/artificial-intelligence.png"/> | <img width="100px" src="https://img.icons8.com/fluency/96/cloud.png"/> | <img width="100px" src="https://img.icons8.com/fluency/96/design.png"/> |
+|:---:|:---:|:---:|
+| **ML Engineer** | **Solutions Architect** | **Creative Technologist** |
+| Deep Learning • NLP • CV | Cloud • Microservices • APIs | UI/UX • Creative Coding • GenAI |
+| *Building intelligent systems* | *Designing scalable architectures* | *Crafting digital experiences* |
+
+</div>
   
-  <!-- Elegant Name Typography -->
-  <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(20px); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; padding: 30px 50px; max-width: 700px; display: inline-block; margin: 20px 0;">
-    <h1 style="margin: 0; font-size: 42px; background: linear-gradient(135deg, #E2E2E2 0%, #FFFFFF 30%, #C9B8F9 60%, #93C5FD 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: 2px;">
-      Birhan Nega
-    </h1>
-    <div style="width: 120px; height: 2px; background: linear-gradient(90deg, transparent, #764ba2, #f093fb, transparent); margin: 15px auto;"></div>
-    <p style="margin: 0; color: #B8C1EC; font-size: 16px; letter-spacing: 1px; opacity: 0.9;">
-      ML Engineer • Solutions Architect • Creative Technologist
-    </p>
-    <div style="display: flex; gap: 15px; justify-content: center; margin-top: 20px;">
-      <span style="background: rgba(118, 75, 162, 0.2); border: 1px solid rgba(118, 75, 162, 0.3); border-radius: 20px; padding: 5px 15px; font-size: 12px; color: #C9B8F9;">🤖 AI/ML</span>
-      <span style="background: rgba(147, 197, 253, 0.2); border: 1px solid rgba(147, 197, 253, 0.3); border-radius: 20px; padding: 5px 15px; font-size: 12px; color: #93C5FD;">☁️ Cloud</span>
-      <span style="background: rgba(240, 147, 251, 0.2); border: 1px solid rgba(240, 147, 251, 0.3); border-radius: 20px; padding: 5px 15px; font-size: 12px; color: #F0D3FB;">🔧 DevOps</span>
-    </div>
-  </div>
 
   <!-- Animated Status Line -->
   <p align="center">
@@ -41,42 +35,20 @@
 
   <br/>
 
-  <!-- Floating Social & Stats Bar -->
-  <div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(30px); border: 1px solid rgba(255,255,255,0.08); border-radius: 50px; padding: 12px 30px; display: inline-flex; gap: 30px; align-items: center;">
-    <img src="https://komarev.com/ghpvc/?username=Birhan121994&label=VISITORS&color=764ba2&style=flat-square" alt="Profile Views" />
-    <span style="color: rgba(255,255,255,0.3);">|</span>
-    <img src="https://img.shields.io/github/followers/Birhan121994?label=FOLLOWERS&style=flat-square&color=667eea" alt="Followers" />
-    <span style="color: rgba(255,255,255,0.3);">|</span>
-    <img src="https://img.shields.io/github/stars/Birhan121994?label=STARS&style=flat-square&color=f093fb" alt="Stars" />
-    <span style="color: rgba(255,255,255,0.3);">|</span>
-    <span style="color: #B8C1EC; font-size: 13px;">📍 Addis Ababa, Ethiopia</span>
-  </div>
-
-</div>
-<br/>
-
-<!-- Decorative Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
-</div>
-
-<br/>
-
-<!-- GitHub Achievements -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-    <span style="color: #ffd93d;">✦</span> 
-    <span style="background: linear-gradient(45deg, #ffd93d, #6bcb77); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">ACHIEVEMENTS</span>
-    <span style="color: #ffd93d;">✦</span>
-  </h2>
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Birhan121994&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%" alt="Trophy" />
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Birhan121994&label=VISITORS&color=8b5cf6&style=for-the-badge" alt="Views" />
+  <img src="https://img.shields.io/badge/━━-8b5cf6?style=for-the-badge" height="28" alt="" />
+  <img src="https://img.shields.io/github/followers/Birhan121994?label=FOLLOWERS&style=for-the-badge&color=06b6d4" alt="Followers" />
+  <img src="https://img.shields.io/badge/━━-06b6d4?style=for-the-badge" height="28" alt="" />
+  <img src="https://img.shields.io/github/stars/Birhan121994?label=STARS&style=for-the-badge&color=ec4899" alt="Stars" />
 </p>
 
+</div>
 <br/>
+
+
+<br/>
+
 
 <!-- Minimalist About Section with Neon Theme -->
 <div align="center">
