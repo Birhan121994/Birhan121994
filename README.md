@@ -130,291 +130,112 @@ mindmap
 
 <div align="center">
 
-<!-- Connect Section with Glass Cards -->
-<div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(30px); border: 1px solid rgba(255,255,255,0.08); border-radius: 24px; padding: 40px 30px; max-width: 800px; display: inline-block; margin-bottom: 30px;">
-
-<h2 style="margin: 0 0 10px 0; font-size: 32px; background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: 2px;">
+<!-- Connect Section -->
+<table align="center" style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 24px; padding: 0; max-width: 800px; border-collapse: separate; border-spacing: 0;">
+  <tr>
+    <td style="padding: 40px 30px;">
+      
+<h2 align="center" style="margin: 0 0 10px 0; font-size: 32px; background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: 2px;">
 ✦ LET'S CONNECT ✦
 </h2>
 
-<div style="width: 80px; height: 2px; background: linear-gradient(90deg, transparent, #667eea, #f093fb, transparent); margin: 15px auto 25px;"></div>
+<div align="center" style="width: 80px; height: 2px; background: linear-gradient(90deg, transparent, #667eea, #f093fb, transparent); margin: 15px auto 25px;"></div>
 
-<p style="color: #B8C1EC; font-size: 15px; margin-bottom: 25px; line-height: 1.6; opacity: 0.9;">
+<p align="center" style="color: #B8C1EC; font-size: 15px; margin-bottom: 25px; line-height: 1.6; opacity: 0.9;">
 <i>"Open to collaborations on innovative AI/ML projects, <br/>
 cloud architecture, and open-source contributions."</i>
 </p>
 
-
 <!-- ============================================ -->
-<!-- MODERN SOCIAL CONNECTION GRID - ENHANCED UI -->
+<!-- MODERN SOCIAL CONNECTION GRID - TABLE BASED -->
 <!-- ============================================ -->
 
-<div style="
-display:flex;
-flex-wrap:wrap;
-justify-content:center;
-gap:20px;
-max-width:750px;
-margin:auto;
-">
+<table align="center" style="border-collapse: separate; border-spacing: 16px;">
+  <tr>
+    
+    <!-- LinkedIn -->
+    <td align="center">
+      <a href="https://linkedin.com/in/your-linkedin" style="text-decoration: none;">
+        <table style="width: 130px; height: 130px; border-radius: 20px; background: linear-gradient(135deg, rgba(0,119,181,0.2), rgba(0,119,181,0.08)); border: 1px solid rgba(0,119,181,0.4); border-collapse: separate; box-shadow: 0 8px 25px rgba(0,119,181,0.15);">
+          <tr><td align="center" style="padding-top: 18px;">
+            <table style="width: 52px; height: 52px; border-radius: 16px; background: linear-gradient(135deg, rgba(0,119,181,0.45), rgba(0,160,220,0.25)); border-collapse: separate;">
+              <tr><td align="center" style="font-size: 26px;">💼</td></tr>
+            </table>
+          </td></tr>
+          <tr><td align="center" style="color: #00A0DC; font-size: 14px; font-weight: 700; padding-top: 6px; letter-spacing: 0.5px;">LinkedIn</td></tr>
+          <tr><td align="center" style="color: rgba(0,160,220,0.5); font-size: 10px; padding-bottom: 15px; font-weight: 400;">Connect</td></tr>
+        </table>
+      </a>
+    </td>
 
+    <!-- Twitter/X -->
+    <td align="center">
+      <a href="https://twitter.com/your-twitter" style="text-decoration: none;">
+        <table style="width: 130px; height: 130px; border-radius: 20px; background: linear-gradient(135deg, rgba(29,161,242,0.2), rgba(29,161,242,0.08)); border: 1px solid rgba(29,161,242,0.4); border-collapse: separate; box-shadow: 0 8px 25px rgba(29,161,242,0.15);">
+          <tr><td align="center" style="padding-top: 18px;">
+            <table style="width: 52px; height: 52px; border-radius: 16px; background: linear-gradient(135deg, rgba(29,161,242,0.45), rgba(29,161,242,0.25)); border-collapse: separate;">
+              <tr><td align="center" style="font-size: 26px;">🐦</td></tr>
+            </table>
+          </td></tr>
+          <tr><td align="center" style="color: #1DA1F2; font-size: 14px; font-weight: 700; padding-top: 6px; letter-spacing: 0.5px;">Twitter</td></tr>
+          <tr><td align="center" style="color: rgba(29,161,242,0.5); font-size: 10px; padding-bottom: 15px; font-weight: 400;">Follow</td></tr>
+        </table>
+      </a>
+    </td>
 
-<!-- LinkedIn -->
-<a href="https://linkedin.com/in/your-linkedin" style="text-decoration:none; position:relative;">
-<div style="
-width:130px;
-height:130px;
-border-radius:20px;
-background:linear-gradient(135deg, rgba(0,119,181,0.15), rgba(0,119,181,0.05));
-border:1px solid rgba(0,119,181,0.3);
-display:flex;
-flex-direction:column;
-align-items:center;
-justify-content:center;
-box-shadow:0 8px 32px rgba(0,119,181,0.12), inset 0 1px 0 rgba(255,255,255,0.1);
-position:relative;
-overflow:hidden;
-">
-<div style="
-position:absolute;
-top:0;
-left:0;
-right:0;
-height:1px;
-background:linear-gradient(90deg, transparent, rgba(0,160,220,0.6), transparent);
-opacity:0;
-transition:opacity 0.3s;
-"></div>
-<div style="
-width:52px;
-height:52px;
-border-radius:16px;
-background:linear-gradient(135deg, rgba(0,119,181,0.4), rgba(0,160,220,0.2));
-display:flex;
-align-items:center;
-justify-content:center;
-font-size:26px;
-box-shadow:0 4px 12px rgba(0,119,181,0.3);
-margin-bottom:2px;
-">
-💼
-</div>
-<span style="color:#00A0DC;font-size:13px;font-weight:700;margin-top:10px;letter-spacing:0.5px;">
-LinkedIn
-</span>
-<span style="color:rgba(0,160,220,0.5);font-size:10px;margin-top:3px;font-weight:400;">
-Connect
-</span>
-</div>
-</a>
+    <!-- GitHub -->
+    <td align="center">
+      <a href="https://github.com/Birhan121994" style="text-decoration: none;">
+        <table style="width: 130px; height: 130px; border-radius: 20px; background: linear-gradient(135deg, rgba(110,84,148,0.2), rgba(110,84,148,0.08)); border: 1px solid rgba(110,84,148,0.4); border-collapse: separate; box-shadow: 0 8px 25px rgba(110,84,148,0.15);">
+          <tr><td align="center" style="padding-top: 18px;">
+            <table style="width: 52px; height: 52px; border-radius: 16px; background: linear-gradient(135deg, rgba(110,84,148,0.45), rgba(110,84,148,0.25)); border-collapse: separate;">
+              <tr><td align="center" style="font-size: 26px;">🐙</td></tr>
+            </table>
+          </td></tr>
+          <tr><td align="center" style="color: #B8A9D4; font-size: 14px; font-weight: 700; padding-top: 6px; letter-spacing: 0.5px;">GitHub</td></tr>
+          <tr><td align="center" style="color: rgba(184,169,212,0.5); font-size: 10px; padding-bottom: 15px; font-weight: 400;">Star</td></tr>
+        </table>
+      </a>
+    </td>
 
+    <!-- Email -->
+    <td align="center">
+      <a href="mailto:your.email@gmail.com" style="text-decoration: none;">
+        <table style="width: 130px; height: 130px; border-radius: 20px; background: linear-gradient(135deg, rgba(234,67,53,0.2), rgba(234,67,53,0.08)); border: 1px solid rgba(234,67,53,0.4); border-collapse: separate; box-shadow: 0 8px 25px rgba(234,67,53,0.15);">
+          <tr><td align="center" style="padding-top: 18px;">
+            <table style="width: 52px; height: 52px; border-radius: 16px; background: linear-gradient(135deg, rgba(234,67,53,0.45), rgba(234,67,53,0.25)); border-collapse: separate;">
+              <tr><td align="center" style="font-size: 26px;">📧</td></tr>
+            </table>
+          </td></tr>
+          <tr><td align="center" style="color: #EA4335; font-size: 14px; font-weight: 700; padding-top: 6px; letter-spacing: 0.5px;">Email</td></tr>
+          <tr><td align="center" style="color: rgba(234,67,53,0.5); font-size: 10px; padding-bottom: 15px; font-weight: 400;">Message</td></tr>
+        </table>
+      </a>
+    </td>
 
-<!-- Twitter/X -->
-<a href="https://twitter.com/your-twitter" style="text-decoration:none; position:relative;">
-<div style="
-width:130px;
-height:130px;
-border-radius:20px;
-background:linear-gradient(135deg, rgba(29,161,242,0.15), rgba(29,161,242,0.05));
-border:1px solid rgba(29,161,242,0.3);
-display:flex;
-flex-direction:column;
-align-items:center;
-justify-content:center;
-box-shadow:0 8px 32px rgba(29,161,242,0.12), inset 0 1px 0 rgba(255,255,255,0.1);
-position:relative;
-overflow:hidden;
-">
-<div style="
-position:absolute;
-top:0;
-left:0;
-right:0;
-height:1px;
-background:linear-gradient(90deg, transparent, rgba(29,161,242,0.6), transparent);
-opacity:0;
-transition:opacity 0.3s;
-"></div>
-<div style="
-width:52px;
-height:52px;
-border-radius:16px;
-background:linear-gradient(135deg, rgba(29,161,242,0.4), rgba(29,161,242,0.2));
-display:flex;
-align-items:center;
-justify-content:center;
-font-size:26px;
-box-shadow:0 4px 12px rgba(29,161,242,0.3);
-margin-bottom:2px;
-">
-🐦
-</div>
-<span style="color:#1DA1F2;font-size:13px;font-weight:700;margin-top:10px;letter-spacing:0.5px;">
-Twitter
-</span>
-<span style="color:rgba(29,161,242,0.5);font-size:10px;margin-top:3px;font-weight:400;">
-Follow
-</span>
-</div>
-</a>
+    <!-- Portfolio -->
+    <td align="center">
+      <a href="https://your-portfolio.com" style="text-decoration: none;">
+        <table style="width: 130px; height: 130px; border-radius: 20px; background: linear-gradient(135deg, rgba(255,152,0,0.2), rgba(255,152,0,0.08)); border: 1px solid rgba(255,152,0,0.4); border-collapse: separate; box-shadow: 0 8px 25px rgba(255,152,0,0.15);">
+          <tr><td align="center" style="padding-top: 18px;">
+            <table style="width: 52px; height: 52px; border-radius: 16px; background: linear-gradient(135deg, rgba(255,152,0,0.45), rgba(255,152,0,0.25)); border-collapse: separate;">
+              <tr><td align="center" style="font-size: 26px;">🌐</td></tr>
+            </table>
+          </td></tr>
+          <tr><td align="center" style="color: #FF9800; font-size: 14px; font-weight: 700; padding-top: 6px; letter-spacing: 0.5px;">Portfolio</td></tr>
+          <tr><td align="center" style="color: rgba(255,152,0,0.5); font-size: 10px; padding-bottom: 15px; font-weight: 400;">Visit</td></tr>
+        </table>
+      </a>
+    </td>
 
+  </tr>
+</table>
 
-<!-- GitHub -->
-<a href="https://github.com/Birhan121994" style="text-decoration:none; position:relative;">
-<div style="
-width:130px;
-height:130px;
-border-radius:20px;
-background:linear-gradient(135deg, rgba(110,84,148,0.15), rgba(110,84,148,0.05));
-border:1px solid rgba(110,84,148,0.3);
-display:flex;
-flex-direction:column;
-align-items:center;
-justify-content:center;
-box-shadow:0 8px 32px rgba(110,84,148,0.12), inset 0 1px 0 rgba(255,255,255,0.1);
-position:relative;
-overflow:hidden;
-">
-<div style="
-position:absolute;
-top:0;
-left:0;
-right:0;
-height:1px;
-background:linear-gradient(90deg, transparent, rgba(184,169,212,0.6), transparent);
-opacity:0;
-transition:opacity 0.3s;
-"></div>
-<div style="
-width:52px;
-height:52px;
-border-radius:16px;
-background:linear-gradient(135deg, rgba(110,84,148,0.4), rgba(110,84,148,0.2));
-display:flex;
-align-items:center;
-justify-content:center;
-font-size:26px;
-box-shadow:0 4px 12px rgba(110,84,148,0.3);
-margin-bottom:2px;
-">
-🐙
-</div>
-<span style="color:#B8A9D4;font-size:13px;font-weight:700;margin-top:10px;letter-spacing:0.5px;">
-GitHub
-</span>
-<span style="color:rgba(184,169,212,0.5);font-size:10px;margin-top:3px;font-weight:400;">
-Star
-</span>
-</div>
-</a>
-
-
-<!-- Email -->
-<a href="mailto:your.email@gmail.com" style="text-decoration:none; position:relative;">
-<div style="
-width:130px;
-height:130px;
-border-radius:20px;
-background:linear-gradient(135deg, rgba(234,67,53,0.15), rgba(234,67,53,0.05));
-border:1px solid rgba(234,67,53,0.3);
-display:flex;
-flex-direction:column;
-align-items:center;
-justify-content:center;
-box-shadow:0 8px 32px rgba(234,67,53,0.12), inset 0 1px 0 rgba(255,255,255,0.1);
-position:relative;
-overflow:hidden;
-">
-<div style="
-position:absolute;
-top:0;
-left:0;
-right:0;
-height:1px;
-background:linear-gradient(90deg, transparent, rgba(234,67,53,0.6), transparent);
-opacity:0;
-transition:opacity 0.3s;
-"></div>
-<div style="
-width:52px;
-height:52px;
-border-radius:16px;
-background:linear-gradient(135deg, rgba(234,67,53,0.4), rgba(234,67,53,0.2));
-display:flex;
-align-items:center;
-justify-content:center;
-font-size:26px;
-box-shadow:0 4px 12px rgba(234,67,53,0.3);
-margin-bottom:2px;
-">
-📧
-</div>
-<span style="color:#EA4335;font-size:13px;font-weight:700;margin-top:10px;letter-spacing:0.5px;">
-Email
-</span>
-<span style="color:rgba(234,67,53,0.5);font-size:10px;margin-top:3px;font-weight:400;">
-Message
-</span>
-</div>
-</a>
-
-
-<!-- Portfolio -->
-<a href="https://your-portfolio.com" style="text-decoration:none; position:relative;">
-<div style="
-width:130px;
-height:130px;
-border-radius:20px;
-background:linear-gradient(135deg, rgba(255,152,0,0.15), rgba(255,152,0,0.05));
-border:1px solid rgba(255,152,0,0.3);
-display:flex;
-flex-direction:column;
-align-items:center;
-justify-content:center;
-box-shadow:0 8px 32px rgba(255,152,0,0.12), inset 0 1px 0 rgba(255,255,255,0.1);
-position:relative;
-overflow:hidden;
-">
-<div style="
-position:absolute;
-top:0;
-left:0;
-right:0;
-height:1px;
-background:linear-gradient(90deg, transparent, rgba(255,152,0,0.6), transparent);
-opacity:0;
-transition:opacity 0.3s;
-"></div>
-<div style="
-width:52px;
-height:52px;
-border-radius:16px;
-background:linear-gradient(135deg, rgba(255,152,0,0.4), rgba(255,152,0,0.2));
-display:flex;
-align-items:center;
-justify-content:center;
-font-size:26px;
-box-shadow:0 4px 12px rgba(255,152,0,0.3);
-margin-bottom:2px;
-">
-🌐
-</div>
-<span style="color:#FF9800;font-size:13px;font-weight:700;margin-top:10px;letter-spacing:0.5px;">
-Portfolio
-</span>
-<span style="color:rgba(255,152,0,0.5);font-size:10px;margin-top:3px;font-weight:400;">
-Visit
-</span>
-</div>
-</a>
-
-
-</div>
-
-</div>
+    </td>
+  </tr>
+</table>
 
 <br/>
-
 
 <!-- Animated Quote Carousel -->
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=14&duration=5000&pause=2000&color=93C5FD&center=true&vCenter=true&width=600&lines=%E2%9C%A6+Code+is+poetry+written+in+logic+%E2%9C%A6;%E2%9C%A6+Innovation+distinguishes+between+a+leader+and+a+follower+%E2%9C%A6;%E2%9C%A6+The+best+way+to+predict+the+future+is+to+invent+it+%E2%9C%A6;%E2%9C%A6+Stay+hungry%2C+stay+foolish+%E2%9C%A6" alt="Inspirational Quotes" />
