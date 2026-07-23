@@ -1,71 +1,110 @@
 <!-- 
-  ██████╗░██╗██████╗░██╗░░██╗░█████╗░███╗░░██╗
-  ██╔══██╗██║██╔══██╗██║░░██║██╔══██╗████╗░██║
-  ██████╔╝██║██████╔╝███████║██║░░██║██╔██╗██║
-  ██╔══██╗██║██╔══██╗██╔══██║██║░░██║██║╚████║
-  ██████╔╝██║██║░░██║██║░░██║╚█████╔╝██║░╚███║
-  ╚═════╝░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚══╝
+  ██████╗ ██ ██████  ██   ██  █████  ███    ██ 
+  ██   ██ ██ ██   ██ ██   ██ ██   ██ ████   ██ 
+  ██████  ██ ██████  ███████ ██   ██ ██ ██  ██ 
+  ██   ██ ██ ██   ██ ██   ██ ██   ██ ██  ██ ██ 
+  ██████  ██ ██   ██ ██   ██  █████  ██   ████ 
 -->
 
 <!-- ============================================ -->
-<!-- MODERN HEADER - GLASS MORPHISM WITH PARTICLES -->
+<!--  TERMINAL CANVAS - NEON NOIR ARCHITECTURE    -->
 <!-- ============================================ -->
 
 <div align="center">
   
-  <!-- Animated Gradient Background Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,19,24&height=250&section=header&text=Birhan%20Nega&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Architecting%20Intelligence%20%7C%20Building%20Tomorrow&descAlignY=55&descSize=18&stroke=000000&strokeWidth=0.5" width="100%"/>
+  <!-- Top Line: Sleek decorative wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
   
   <br/>
   
-  <!-- Animated Avatar with Glow Effect -->
-  <div style="position: relative; display: inline-block; margin-top: -80px;">
-    <div style="position: absolute; top: -8px; left: -8px; right: -8px; bottom: -8px; background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); border-radius: 50%; filter: blur(15px); opacity: 0.7; animation: pulseGlow 2s ease-in-out infinite alternate;"></div>
-    <img src="https://avatars.githubusercontent.com/u/your-user-id?v=4" width="160" height="160" style="border-radius: 50%; border: 4px solid rgba(255,255,255,0.2); position: relative; z-index: 1; backdrop-filter: blur(10px);" alt="Profile Avatar"/>
-  </div>
-  
-  <br/>
-  
-  <!-- Elegant Name Typography -->
-  <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(20px); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; padding: 30px 50px; max-width: 700px; display: inline-block; margin: 20px 0;">
-    <h1 style="margin: 0; font-size: 42px; background: linear-gradient(135deg, #E2E2E2 0%, #FFFFFF 30%, #C9B8F9 60%, #93C5FD 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: 2px;">
-      Birhan Nega
-    </h1>
-    <div style="width: 120px; height: 2px; background: linear-gradient(90deg, transparent, #764ba2, #f093fb, transparent); margin: 15px auto;"></div>
-    <p style="margin: 0; color: #B8C1EC; font-size: 16px; letter-spacing: 1px; opacity: 0.9;">
-      ML Engineer • Solutions Architect • Creative Technologist
-    </p>
-    <div style="display: flex; gap: 15px; justify-content: center; margin-top: 20px;">
-      <span style="background: rgba(118, 75, 162, 0.2); border: 1px solid rgba(118, 75, 162, 0.3); border-radius: 20px; padding: 5px 15px; font-size: 12px; color: #C9B8F9;">🤖 AI/ML</span>
-      <span style="background: rgba(147, 197, 253, 0.2); border: 1px solid rgba(147, 197, 253, 0.3); border-radius: 20px; padding: 5px 15px; font-size: 12px; color: #93C5FD;">☁️ Cloud</span>
-      <span style="background: rgba(240, 147, 251, 0.2); border: 1px solid rgba(240, 147, 251, 0.3); border-radius: 20px; padding: 5px 15px; font-size: 12px; color: #F0D3FB;">🔧 DevOps</span>
+  <!-- Core Identity Card: Glass-morphism Panel -->
+  <div style="background: rgba(13, 17, 23, 0.7); backdrop-filter: blur(15px); border: 1px solid rgba(48, 54, 61, 0.6); border-radius: 24px; padding: 40px 60px; max-width: 680px; display: inline-block; margin: 20px 0; box-shadow: 0 20px 40px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.05); position: relative; overflow: hidden;">
+    
+    <!-- Ambient Glow Accent -->
+    <div style="position: absolute; top: -50%; left: -20%; width: 70%; height: 200%; background: radial-gradient(circle, rgba(88, 166, 255, 0.08) 0%, transparent 70%); pointer-events: none;"></div>
+    
+    <!-- Avatar & Typography Wrapper -->
+    <div style="display: flex; flex-direction: column; align-items: center; gap: 25px; position: relative; z-index: 2;">
+      
+      <!-- Avatar Container with Ring -->
+      <div style="position: relative; padding: 3px; border-radius: 50%; background: linear-gradient(135deg, #58a6ff, #3fb950, #f78166);">
+        <img src="https://avatars.githubusercontent.com/u/your-user-id?v=4" width="140" height="140" style="border-radius: 50%; display: block; background: #0d1117; border: 4px solid #0d1117;" alt="Profile Avatar"/>
+      </div>
+      
+      <!-- Name & Role -->
+      <div style="text-align: center;">
+        <h1 style="margin: 0; font-size: 46px; font-weight: 700; color: #f0f6fc; letter-spacing: -1px; line-height: 1.1;">
+          Birhan Nega
+        </h1>
+        <div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 8px;">
+          <span style="width: 30px; height: 1px; background: #30363d;"></span>
+          <p style="margin: 0; color: #8b949e; font-size: 16px; font-family: 'SF Mono', 'Fira Code', monospace; letter-spacing: 1px;">
+            MACHINE LEARNING ENGINEER
+          </p>
+          <span style="width: 30px; height: 1px; background: #30363d;"></span>
+        </div>
+        <!-- Live Status Dot -->
+        <p style="margin: 15px 0 0; color: #3fb950; font-size: 13px; font-family: monospace; background: rgba(63, 185, 80, 0.1); padding: 4px 14px; border-radius: 20px; display: inline-block; border: 1px solid rgba(63, 185, 80, 0.2);">
+          <span style="display: inline-block; width: 8px; height: 8px; background: #3fb950; border-radius: 50%; margin-right: 8px; box-shadow: 0 0 10px #3fb950;"></span> SYSTEM ONLINE · READY TO BUILD
+        </p>
+      </div>
+      
+      <!-- Tech Pillars -->
+      <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+        <div style="background: rgba(88, 166, 255, 0.08); border: 1px solid rgba(88, 166, 255, 0.2); border-radius: 12px; padding: 10px 20px; color: #58a6ff; font-size: 13px; font-weight: 500; backdrop-filter: blur(10px); transition: 0.3s;">
+          🧠 DEEP LEARNING
+        </div>
+        <div style="background: rgba(63, 185, 80, 0.08); border: 1px solid rgba(63, 185, 80, 0.2); border-radius: 12px; padding: 10px 20px; color: #3fb950; font-size: 13px; font-weight: 500; backdrop-filter: blur(10px); transition: 0.3s;">
+          ☁️ CLOUD NATIVE
+        </div>
+        <div style="background: rgba(247, 129, 102, 0.08); border: 1px solid rgba(247, 129, 102, 0.2); border-radius: 12px; padding: 10px 20px; color: #f78166; font-size: 13px; font-weight: 500; backdrop-filter: blur(10px); transition: 0.3s;">
+          ⚡ MLOPS
+        </div>
+      </div>
+
     </div>
   </div>
 
-  <!-- Animated Status Line -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=18&duration=4000&pause=3000&color=93C5FD&center=true&vCenter=true&width=500&lines=%E2%96%B6+SYSTEM+ONLINE;%E2%96%B6+BUILDING+INTELLIGENT+SYSTEMS;%E2%96%B6+ARCHITECTING+THE+FUTURE;%E2%96%B6+READY+TO+COLLABORATE" alt="Status Typing" />
+  <!-- Dynamic Typing Carousel -->
+  <p align="center" style="margin-top: 15px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=$+building+scalable+intelligence+...;$+architecting+cloud+systems+...;$+deploying+production+ML+models+...;$+exploring+generative+AI+frontiers+..." alt="Terminal Typing" />
   </p>
 
   <br/>
-
-  <!-- Floating Social & Stats Bar -->
-  <div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(30px); border: 1px solid rgba(255,255,255,0.08); border-radius: 50px; padding: 12px 30px; display: inline-flex; gap: 30px; align-items: center;">
-    <img src="https://komarev.com/ghpvc/?username=Birhan121994&label=VISITORS&color=764ba2&style=flat-square" alt="Profile Views" />
-    <span style="color: rgba(255,255,255,0.3);">|</span>
-    <img src="https://img.shields.io/github/followers/Birhan121994?label=FOLLOWERS&style=flat-square&color=667eea" alt="Followers" />
-    <span style="color: rgba(255,255,255,0.3);">|</span>
-    <img src="https://img.shields.io/github/stars/Birhan121994?label=STARS&style=flat-square&color=f093fb" alt="Stars" />
-    <span style="color: rgba(255,255,255,0.3);">|</span>
-    <span style="color: #B8C1EC; font-size: 13px;">📍 Addis Ababa, Ethiopia</span>
+  
+  <!-- Bottom Status Bar: Stats & Location -->
+  <div style="background: #161b22; border: 1px solid #30363d; border-radius: 40px; padding: 8px 25px; display: inline-flex; gap: 25px; align-items: center; font-family: 'SF Mono', 'Fira Code', monospace; font-size: 12px; color: #8b949e; box-shadow: 0 8px 20px rgba(0,0,0,0.4);">
+    <!-- Visitor Count -->
+    <span style="display: flex; align-items: center; gap: 6px;">
+      <span style="color: #58a6ff;">◈</span> VISITS: 
+      <img src="https://komarev.com/ghpvc/?username=Birhan121994&label=&color=58a6ff&style=flat-square" alt="Profile Views" />
+    </span>
+    <span style="color: #30363d;">│</span>
+    <!-- Followers -->
+    <span style="display: flex; align-items: center; gap: 6px;">
+      <span style="color: #3fb950;">◈</span> FOLLOWERS: 
+      <img src="https://img.shields.io/github/followers/Birhan121994?label=&style=flat-square&color=3fb950" alt="Followers" />
+    </span>
+    <span style="color: #30363d;">│</span>
+    <!-- Stars -->
+    <span style="display: flex; align-items: center; gap: 6px;">
+      <span style="color: #f78166;">◈</span> STARS: 
+      <img src="https://img.shields.io/github/stars/Birhan121994?label=&style=flat-square&color=f78166" alt="Stars" />
+    </span>
+    <span style="color: #30363d;">│</span>
+    <!-- Location -->
+    <span style="display: flex; align-items: center; gap: 6px;">
+      <span>📍</span> ADDIS ABABA, ET
+    </span>
   </div>
 
-</div>
-<br/>
+  <br/><br/>
 
-<!-- Decorative Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+  <!-- Decorative Divider Line -->
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%">
+  </div>
+
 </div>
 
 <br/>
