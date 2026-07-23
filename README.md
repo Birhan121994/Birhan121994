@@ -18,14 +18,6 @@
   
   <br/>
   
-  <!-- Animated Avatar with Glow Effect -->
-  <div style="position: relative; display: inline-block; margin-top: -80px;">
-    <div style="position: absolute; top: -8px; left: -8px; right: -8px; bottom: -8px; background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); border-radius: 50%; filter: blur(15px); opacity: 0.7; animation: pulseGlow 2s ease-in-out infinite alternate;"></div>
-    <img src="https://avatars.githubusercontent.com/u/Birhan121994?v=4" width="160" height="160" style="border-radius: 50%; border: 4px solid rgba(255,255,255,0.2); position: relative; z-index: 1; backdrop-filter: blur(10px);" alt="Profile Avatar"/>
-  </div>
-  
-  <br/>
-  
   <!-- Elegant Name Typography -->
   <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(20px); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; padding: 30px 50px; max-width: 700px; display: inline-block; margin: 20px 0;">
     <h1 style="margin: 0; font-size: 42px; background: linear-gradient(135deg, #E2E2E2 0%, #FFFFFF 30%, #C9B8F9 60%, #93C5FD 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: 2px;">
