@@ -123,6 +123,7 @@ mindmap
       Kubernetes
 ```
 <!-- Tech Stack - Minimalist Cards Design --><div align="center"> <h2> <span style="color: #ffd93d;">✦</span> <span style="background: linear-gradient(45deg, #ffd93d, #ff6b6b); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">TECHNOLOGY STACK</span> <span style="color: #ffd93d;">✦</span> </h2> </div><div align="center"> <table> <tr> <td align="center" width="96" height="96"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/> <br/><sub><b>Python</b></sub> </td> <td align="center" width="96" height="96"> <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65"/> <br/><sub><b>TypeScript</b></sub> </td> <td align="center" width="96" height="96"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/> <br/><sub><b>JavaScript</b></sub> </td> <td align="center" width="96" height="96"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/> <br/><sub><b>React</b></sub> </td> <td align="center" width="96" height="96"> <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/> <br/><sub><b>Docker</b></sub> </td> <td align="center" width="96" height="96"> <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65"/> <br/><sub><b>AWS</b></sub> </td> </tr> <tr> <td align="center" width="96" height="96"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/> <br/><sub><b>GitHub</b></sub> </td> <td align="center" width="96" height="96"> <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65"/> <br/><sub><b>REST API</b></sub> </td> <td align="center" width="96" height="96"> <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65"/> <br/><sub><b>GraphQL</b></sub> </td> <td align="center" width="96" height="96"> <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65"/> <br/><sub><b>K8s</b></sub> </td> <td align="center" width="96" height="96"> <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65"/> <br/><sub><b>Nginx</b></sub> </td> <td align="center" width="96" height="96"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/> <br/><sub><b>MySQL</b></sub> </td> </tr> </table> </div><!-- ML & Data Science Specific Tools --><div align="center"> <table> <tr> <td align="center" width="96" height="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48"/> <br/><sub><b>TensorFlow</b></sub> </td> <td align="center" width="96" height="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48"/> <br/><sub><b>PyTorch</b></sub> </td> <td align="center" width="96" height="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48"/> <br/><sub><b>Django</b></sub> </td> <td align="center" width="96" height="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48"/> <br/><sub><b>FastAPI</b></sub> </td> <td align="center" width="96" height="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48"/> <br/><sub><b>Flask</b></sub> </td> <td align="center" width="96" height="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48"/> <br/><sub><b>PostgreSQL</b></sub> </td> </tr> </table> </div><!-- Stats with Modern Layout --><div align="center"> <h2> <span style="color: #6bcb77;">✦</span> <span style="background: linear-gradient(45deg, #6bcb77, #4d96ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">PERFORMANCE METRICS</span> <span style="color: #6bcb77;">✦</span> </h2> </div><div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Birhan121994&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&ring_color=ff69b4&count_private=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Birhan121994&hide_border=true&background=0D1117&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=ff69b4" /> </div><div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birhan121994&layout=compact&hide_border=true&bg_color=0D1117&title_color=ffd93d&text_color=c9d1d9" /> <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Birhan121994&bg_color=0D1117&color=ffd93d&line=ff69b4&point=ff69b4&area=true&hide_border=true" /> </div><!-- Contribution Snake Animation --><div align="center"> <h2> <span style="color: #4d96ff;">✦</span> <span style="background: linear-gradient(45deg, #4d96ff, #ff6b6b); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">CONTRIBUTION MATRIX</span> <span style="color: #4d96ff;">✦</span> </h2> </div><picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Birhan121994/Birhan121994/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Birhan121994/Birhan121994/output/github-contribution-grid-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/Birhan121994/Birhan121994/output/github-contribution-grid-snake.svg" /> </picture><!-- 3D Contribution Graph --><div align="center"> <img src="https://github.com/Birhan121994/Birhan121994/blob/main/profile-3d-contrib/profile-night-green.svg" width="80%" alt="3D Contribution Graph"/> </div><!-- Featured Projects - Modern Cards --><div align="center"> <h2> <span style="color: #ff6b6b;">✦</span> <span style="background: linear-gradient(45deg, #ff6b6b, #ffd93d); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">FLAGSHIP PROJECTS</span> <span style="color: #ff6b6b;">✦</span> </h2> </div><div align="center"> <table> <tr> <td width="50%"> <div align="center"> <h3>🧠 Neural Nexus</h3> <p>Production ML pipeline with auto-scaling</p> <p> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> </p> <a href="#"> <img src="https://img.shields.io/badge/%E2%96%B8_EXPLORE-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> </td> <td width="50%"> <div align="center"> <h3>📊 DataFlow</h3> <p>Real-time ETL & visualization platform</p> <p> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" /> </p> <a href="#"> <img src="https://img.shields.io/badge/%E2%96%B8_EXPLORE-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> </td> </tr> <tr> <td width="50%"> <div align="center"> <h3>🔐 AuthShield</h3> <p>Zero-trust authentication microservice</p> <p> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> </p> <a href="#"> <img src="https://img.shields.io/badge/%E2%96%B8_EXPLORE-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> </td> <td width="50%"> <div align="center"> <h3>🤖 BERT-Sentiment</h3> <p>Real-time sentiment analysis API</p> <p> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Transformers-FFD700?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> </p> <a href="#"> <img src="https://img.shields.io/badge/%E2%96%B8_EXPLORE-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> </td> </tr> </table> </div><!-- Wakatime Stats - Optional --><div align="center"> <h2> <span style="color: #ffd93d;">✦</span> <span style="background: linear-gradient(45deg, #ffd93d, #6bcb77); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">CODING METRICS</span> <span style="color: #ffd93d;">✦</span> </h2> <p>Connect your WakaTime account to see detailed coding stats</p> <!-- Uncomment below and replace USERNAME when you have WakaTime setup --> <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Birhan121994&hide_border=true&bg_color=0D1117&title_color=6bcb77&text_color=c9d1d9&layout=compact" /> --> </div><!-- Random Dev Quote --><div align="center"> <h2> <span style="color: #6bcb77;">✦</span> <span style="background: linear-gradient(45deg, #6bcb77, #4d96ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">DEV QUOTE</span> <span style="color: #6bcb77;">✦</span> </h2> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" alt="Random Dev Quote"/> </div>
+
 <!-- ============================================ -->
 <!-- MODERN FOOTER - ELEGANT & INTERACTIVE -->
 <!-- ============================================ -->
@@ -145,174 +146,264 @@ cloud architecture, and open-source contributions."</i>
 
 
 <!-- ============================================ -->
-<!-- MODERN SOCIAL CONNECTION GRID -->
+<!-- MODERN SOCIAL CONNECTION GRID - ENHANCED UI -->
 <!-- ============================================ -->
 
 <div style="
 display:flex;
 flex-wrap:wrap;
 justify-content:center;
-gap:18px;
-max-width:700px;
+gap:20px;
+max-width:750px;
 margin:auto;
 ">
 
 
-<a href="https://linkedin.com/in/your-linkedin" style="text-decoration:none;">
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/your-linkedin" style="text-decoration:none; position:relative;">
 <div style="
-width:120px;
-height:120px;
-border-radius:24px;
-background:linear-gradient(145deg,rgba(0,119,181,0.25),rgba(0,119,181,0.05));
-border:1px solid rgba(0,119,181,0.35);
+width:130px;
+height:130px;
+border-radius:20px;
+background:linear-gradient(135deg, rgba(0,119,181,0.15), rgba(0,119,181,0.05));
+border:1px solid rgba(0,119,181,0.3);
 display:flex;
 flex-direction:column;
 align-items:center;
 justify-content:center;
-box-shadow:0 8px 25px rgba(0,119,181,0.15);
+box-shadow:0 8px 32px rgba(0,119,181,0.12), inset 0 1px 0 rgba(255,255,255,0.1);
+position:relative;
+overflow:hidden;
 ">
 <div style="
-width:48px;
-height:48px;
-border-radius:50%;
-background:rgba(0,119,181,0.25);
+position:absolute;
+top:0;
+left:0;
+right:0;
+height:1px;
+background:linear-gradient(90deg, transparent, rgba(0,160,220,0.6), transparent);
+opacity:0;
+transition:opacity 0.3s;
+"></div>
+<div style="
+width:52px;
+height:52px;
+border-radius:16px;
+background:linear-gradient(135deg, rgba(0,119,181,0.4), rgba(0,160,220,0.2));
 display:flex;
 align-items:center;
 justify-content:center;
-font-size:24px;
+font-size:26px;
+box-shadow:0 4px 12px rgba(0,119,181,0.3);
+margin-bottom:2px;
 ">
 💼
 </div>
-<span style="color:#00A0DC;font-size:14px;font-weight:600;margin-top:12px;">
+<span style="color:#00A0DC;font-size:13px;font-weight:700;margin-top:10px;letter-spacing:0.5px;">
 LinkedIn
+</span>
+<span style="color:rgba(0,160,220,0.5);font-size:10px;margin-top:3px;font-weight:400;">
+Connect
 </span>
 </div>
 </a>
 
 
-<a href="https://twitter.com/your-twitter" style="text-decoration:none;">
+<!-- Twitter/X -->
+<a href="https://twitter.com/your-twitter" style="text-decoration:none; position:relative;">
 <div style="
-width:120px;
-height:120px;
-border-radius:24px;
-background:linear-gradient(145deg,rgba(29,161,242,0.25),rgba(29,161,242,0.05));
-border:1px solid rgba(29,161,242,0.35);
+width:130px;
+height:130px;
+border-radius:20px;
+background:linear-gradient(135deg, rgba(29,161,242,0.15), rgba(29,161,242,0.05));
+border:1px solid rgba(29,161,242,0.3);
 display:flex;
 flex-direction:column;
 align-items:center;
 justify-content:center;
-box-shadow:0 8px 25px rgba(29,161,242,0.15);
+box-shadow:0 8px 32px rgba(29,161,242,0.12), inset 0 1px 0 rgba(255,255,255,0.1);
+position:relative;
+overflow:hidden;
 ">
 <div style="
-width:48px;
-height:48px;
-border-radius:50%;
-background:rgba(29,161,242,0.25);
+position:absolute;
+top:0;
+left:0;
+right:0;
+height:1px;
+background:linear-gradient(90deg, transparent, rgba(29,161,242,0.6), transparent);
+opacity:0;
+transition:opacity 0.3s;
+"></div>
+<div style="
+width:52px;
+height:52px;
+border-radius:16px;
+background:linear-gradient(135deg, rgba(29,161,242,0.4), rgba(29,161,242,0.2));
 display:flex;
 align-items:center;
 justify-content:center;
-font-size:24px;
+font-size:26px;
+box-shadow:0 4px 12px rgba(29,161,242,0.3);
+margin-bottom:2px;
 ">
 🐦
 </div>
-<span style="color:#1DA1F2;font-size:14px;font-weight:600;margin-top:12px;">
+<span style="color:#1DA1F2;font-size:13px;font-weight:700;margin-top:10px;letter-spacing:0.5px;">
 Twitter
+</span>
+<span style="color:rgba(29,161,242,0.5);font-size:10px;margin-top:3px;font-weight:400;">
+Follow
 </span>
 </div>
 </a>
 
 
-<a href="https://github.com/Birhan121994" style="text-decoration:none;">
+<!-- GitHub -->
+<a href="https://github.com/Birhan121994" style="text-decoration:none; position:relative;">
 <div style="
-width:120px;
-height:120px;
-border-radius:24px;
-background:linear-gradient(145deg,rgba(110,84,148,0.25),rgba(110,84,148,0.05));
-border:1px solid rgba(110,84,148,0.35);
+width:130px;
+height:130px;
+border-radius:20px;
+background:linear-gradient(135deg, rgba(110,84,148,0.15), rgba(110,84,148,0.05));
+border:1px solid rgba(110,84,148,0.3);
 display:flex;
 flex-direction:column;
 align-items:center;
 justify-content:center;
-box-shadow:0 8px 25px rgba(110,84,148,0.15);
+box-shadow:0 8px 32px rgba(110,84,148,0.12), inset 0 1px 0 rgba(255,255,255,0.1);
+position:relative;
+overflow:hidden;
 ">
 <div style="
-width:48px;
-height:48px;
-border-radius:50%;
-background:rgba(110,84,148,0.25);
+position:absolute;
+top:0;
+left:0;
+right:0;
+height:1px;
+background:linear-gradient(90deg, transparent, rgba(184,169,212,0.6), transparent);
+opacity:0;
+transition:opacity 0.3s;
+"></div>
+<div style="
+width:52px;
+height:52px;
+border-radius:16px;
+background:linear-gradient(135deg, rgba(110,84,148,0.4), rgba(110,84,148,0.2));
 display:flex;
 align-items:center;
 justify-content:center;
-font-size:24px;
+font-size:26px;
+box-shadow:0 4px 12px rgba(110,84,148,0.3);
+margin-bottom:2px;
 ">
 🐙
 </div>
-<span style="color:#B8A9D4;font-size:14px;font-weight:600;margin-top:12px;">
+<span style="color:#B8A9D4;font-size:13px;font-weight:700;margin-top:10px;letter-spacing:0.5px;">
 GitHub
+</span>
+<span style="color:rgba(184,169,212,0.5);font-size:10px;margin-top:3px;font-weight:400;">
+Star
 </span>
 </div>
 </a>
 
 
-<a href="mailto:your.email@gmail.com" style="text-decoration:none;">
+<!-- Email -->
+<a href="mailto:your.email@gmail.com" style="text-decoration:none; position:relative;">
 <div style="
-width:120px;
-height:120px;
-border-radius:24px;
-background:linear-gradient(145deg,rgba(234,67,53,0.25),rgba(234,67,53,0.05));
-border:1px solid rgba(234,67,53,0.35);
+width:130px;
+height:130px;
+border-radius:20px;
+background:linear-gradient(135deg, rgba(234,67,53,0.15), rgba(234,67,53,0.05));
+border:1px solid rgba(234,67,53,0.3);
 display:flex;
 flex-direction:column;
 align-items:center;
 justify-content:center;
-box-shadow:0 8px 25px rgba(234,67,53,0.15);
+box-shadow:0 8px 32px rgba(234,67,53,0.12), inset 0 1px 0 rgba(255,255,255,0.1);
+position:relative;
+overflow:hidden;
 ">
 <div style="
-width:48px;
-height:48px;
-border-radius:50%;
-background:rgba(234,67,53,0.25);
+position:absolute;
+top:0;
+left:0;
+right:0;
+height:1px;
+background:linear-gradient(90deg, transparent, rgba(234,67,53,0.6), transparent);
+opacity:0;
+transition:opacity 0.3s;
+"></div>
+<div style="
+width:52px;
+height:52px;
+border-radius:16px;
+background:linear-gradient(135deg, rgba(234,67,53,0.4), rgba(234,67,53,0.2));
 display:flex;
 align-items:center;
 justify-content:center;
-font-size:24px;
+font-size:26px;
+box-shadow:0 4px 12px rgba(234,67,53,0.3);
+margin-bottom:2px;
 ">
 📧
 </div>
-<span style="color:#EA4335;font-size:14px;font-weight:600;margin-top:12px;">
+<span style="color:#EA4335;font-size:13px;font-weight:700;margin-top:10px;letter-spacing:0.5px;">
 Email
+</span>
+<span style="color:rgba(234,67,53,0.5);font-size:10px;margin-top:3px;font-weight:400;">
+Message
 </span>
 </div>
 </a>
 
 
-<a href="https://your-portfolio.com" style="text-decoration:none;">
+<!-- Portfolio -->
+<a href="https://your-portfolio.com" style="text-decoration:none; position:relative;">
 <div style="
-width:120px;
-height:120px;
-border-radius:24px;
-background:linear-gradient(145deg,rgba(255,152,0,0.25),rgba(255,152,0,0.05));
-border:1px solid rgba(255,152,0,0.35);
+width:130px;
+height:130px;
+border-radius:20px;
+background:linear-gradient(135deg, rgba(255,152,0,0.15), rgba(255,152,0,0.05));
+border:1px solid rgba(255,152,0,0.3);
 display:flex;
 flex-direction:column;
 align-items:center;
 justify-content:center;
-box-shadow:0 8px 25px rgba(255,152,0,0.15);
+box-shadow:0 8px 32px rgba(255,152,0,0.12), inset 0 1px 0 rgba(255,255,255,0.1);
+position:relative;
+overflow:hidden;
 ">
 <div style="
-width:48px;
-height:48px;
-border-radius:50%;
-background:rgba(255,152,0,0.25);
+position:absolute;
+top:0;
+left:0;
+right:0;
+height:1px;
+background:linear-gradient(90deg, transparent, rgba(255,152,0,0.6), transparent);
+opacity:0;
+transition:opacity 0.3s;
+"></div>
+<div style="
+width:52px;
+height:52px;
+border-radius:16px;
+background:linear-gradient(135deg, rgba(255,152,0,0.4), rgba(255,152,0,0.2));
 display:flex;
 align-items:center;
 justify-content:center;
-font-size:24px;
+font-size:26px;
+box-shadow:0 4px 12px rgba(255,152,0,0.3);
+margin-bottom:2px;
 ">
 🌐
 </div>
-<span style="color:#FF9800;font-size:14px;font-weight:600;margin-top:12px;">
+<span style="color:#FF9800;font-size:13px;font-weight:700;margin-top:10px;letter-spacing:0.5px;">
 Portfolio
+</span>
+<span style="color:rgba(255,152,0,0.5);font-size:10px;margin-top:3px;font-weight:400;">
+Visit
 </span>
 </div>
 </a>
@@ -329,5 +420,3 @@ Portfolio
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=14&duration=5000&pause=2000&color=93C5FD&center=true&vCenter=true&width=600&lines=%E2%9C%A6+Code+is+poetry+written+in+logic+%E2%9C%A6;%E2%9C%A6+Innovation+distinguishes+between+a+leader+and+a+follower+%E2%9C%A6;%E2%9C%A6+The+best+way+to+predict+the+future+is+to+invent+it+%E2%9C%A6;%E2%9C%A6+Stay+hungry%2C+stay+foolish+%E2%9C%A6" alt="Inspirational Quotes" />
 
 </div>
-
-
