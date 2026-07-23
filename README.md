@@ -150,141 +150,161 @@ cloud architecture, and open-source contributions."</i>
 
 <table align="center" style="border-collapse: collapse; border-spacing: 0; margin: 0 auto;">
 <tr>
-<td style="padding: 8px;">
+<td style="padding: 10px;">
 
 <!-- LinkedIn -->
 <a href="https://linkedin.com/in/your-linkedin" style="text-decoration:none;">
 <div style="
-width:130px;
-height:130px;
-border-radius:20px;
-background:linear-gradient(145deg, rgba(0,119,181,0.3) 0%, rgba(0,119,181,0.08) 100%);
-border:1px solid rgba(0,119,181,0.4);
+width:90px;
+height:90px;
+border-radius:22px;
+background:linear-gradient(145deg, rgba(0,119,181,0.35) 0%, rgba(0,119,181,0.1) 100%);
+border:2px solid rgba(0,119,181,0.5);
 display:inline-block;
 text-align:center;
 vertical-align:middle;
-box-shadow:0 10px 30px rgba(0,119,181,0.2), inset 0 1px 1px rgba(255,255,255,0.1);
-backdrop-filter: blur(10px);
-padding: 20px 15px;
+box-shadow:0 12px 35px rgba(0,119,181,0.25), inset 0 1px 1px rgba(255,255,255,0.15);
+backdrop-filter: blur(15px);
+transition: all 0.3s ease;
+cursor: pointer;
+position: relative;
 ">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=transparent" alt="LinkedIn" style="height:28px; margin-bottom:8px;" />
-<div style="color:#00A0DC; font-size:12px; font-weight:700; margin-top:8px; text-shadow: 0 0 10px rgba(0,160,220,0.5); letter-spacing: 0.5px;">
-LinkedIn
-</div>
-<div style="color:#6BA4C7; font-size:10px; margin-top:4px; font-weight:400; opacity:0.8;">
-Connect
+<div style="
+width:100%;
+height:100%;
+display:flex;
+align-items:center;
+justify-content:center;
+">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=transparent" alt="LinkedIn" style="height:32px; filter: drop-shadow(0 4px 8px rgba(0,119,181,0.6));" />
 </div>
 </div>
 </a>
 
 </td>
-<td style="padding: 8px;">
+<td style="padding: 10px;">
 
 <!-- Twitter/X -->
 <a href="https://twitter.com/your-twitter" style="text-decoration:none;">
 <div style="
-width:130px;
-height:130px;
-border-radius:20px;
-background:linear-gradient(145deg, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.08) 100%);
-border:1px solid rgba(255,255,255,0.2);
+width:90px;
+height:90px;
+border-radius:22px;
+background:linear-gradient(145deg, rgba(255,255,255,0.15) 0%, rgba(255,255,255,0.05) 100%);
+border:2px solid rgba(255,255,255,0.25);
 display:inline-block;
 text-align:center;
 vertical-align:middle;
-box-shadow:0 10px 30px rgba(0,0,0,0.2), inset 0 1px 1px rgba(255,255,255,0.1);
-backdrop-filter: blur(10px);
-padding: 20px 15px;
+box-shadow:0 12px 35px rgba(0,0,0,0.3), inset 0 1px 1px rgba(255,255,255,0.15);
+backdrop-filter: blur(15px);
+transition: all 0.3s ease;
+cursor: pointer;
+position: relative;
 ">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=transparent" alt="Twitter/X" style="height:28px; margin-bottom:8px;" />
-<div style="color:#E1E8ED; font-size:12px; font-weight:700; margin-top:8px; text-shadow: 0 0 10px rgba(225,232,237,0.5); letter-spacing: 0.5px;">
-Twitter/X
-</div>
-<div style="color:#8899A6; font-size:10px; margin-top:4px; font-weight:400; opacity:0.8;">
-Follow
+<div style="
+width:100%;
+height:100%;
+display:flex;
+align-items:center;
+justify-content:center;
+">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=transparent" alt="Twitter/X" style="height:32px; filter: drop-shadow(0 4px 8px rgba(255,255,255,0.4));" />
 </div>
 </div>
 </a>
 
 </td>
-<td style="padding: 8px;">
+<td style="padding: 10px;">
 
 <!-- GitHub -->
 <a href="https://github.com/Birhan121994" style="text-decoration:none;">
 <div style="
-width:130px;
-height:130px;
-border-radius:20px;
-background:linear-gradient(145deg, rgba(110,84,148,0.3) 0%, rgba(110,84,148,0.08) 100%);
-border:1px solid rgba(110,84,148,0.4);
+width:90px;
+height:90px;
+border-radius:22px;
+background:linear-gradient(145deg, rgba(110,84,148,0.35) 0%, rgba(110,84,148,0.1) 100%);
+border:2px solid rgba(110,84,148,0.5);
 display:inline-block;
 text-align:center;
 vertical-align:middle;
-box-shadow:0 10px 30px rgba(110,84,148,0.2), inset 0 1px 1px rgba(255,255,255,0.1);
-backdrop-filter: blur(10px);
-padding: 20px 15px;
+box-shadow:0 12px 35px rgba(110,84,148,0.25), inset 0 1px 1px rgba(255,255,255,0.15);
+backdrop-filter: blur(15px);
+transition: all 0.3s ease;
+cursor: pointer;
+position: relative;
 ">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=transparent" alt="GitHub" style="height:28px; margin-bottom:8px;" />
-<div style="color:#B8A9D4; font-size:12px; font-weight:700; margin-top:8px; text-shadow: 0 0 10px rgba(184,169,212,0.5); letter-spacing: 0.5px;">
-GitHub
-</div>
-<div style="color:#D4CAE8; font-size:10px; margin-top:4px; font-weight:400; opacity:0.8;">
-Explore
+<div style="
+width:100%;
+height:100%;
+display:flex;
+align-items:center;
+justify-content:center;
+">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=transparent" alt="GitHub" style="height:32px; filter: drop-shadow(0 4px 8px rgba(110,84,148,0.6));" />
 </div>
 </div>
 </a>
 
 </td>
-<td style="padding: 8px;">
+<td style="padding: 10px;">
 
 <!-- Email -->
 <a href="mailto:your.email@gmail.com" style="text-decoration:none;">
 <div style="
-width:130px;
-height:130px;
-border-radius:20px;
-background:linear-gradient(145deg, rgba(234,67,53,0.3) 0%, rgba(234,67,53,0.08) 100%);
-border:1px solid rgba(234,67,53,0.4);
+width:90px;
+height:90px;
+border-radius:22px;
+background:linear-gradient(145deg, rgba(234,67,53,0.35) 0%, rgba(234,67,53,0.1) 100%);
+border:2px solid rgba(234,67,53,0.5);
 display:inline-block;
 text-align:center;
 vertical-align:middle;
-box-shadow:0 10px 30px rgba(234,67,53,0.2), inset 0 1px 1px rgba(255,255,255,0.1);
-backdrop-filter: blur(10px);
-padding: 20px 15px;
+box-shadow:0 12px 35px rgba(234,67,53,0.25), inset 0 1px 1px rgba(255,255,255,0.15);
+backdrop-filter: blur(15px);
+transition: all 0.3s ease;
+cursor: pointer;
+position: relative;
 ">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=transparent" alt="Email" style="height:28px; margin-bottom:8px;" />
-<div style="color:#FF6B6B; font-size:12px; font-weight:700; margin-top:8px; text-shadow: 0 0 10px rgba(255,107,107,0.5); letter-spacing: 0.5px;">
-Email
-</div>
-<div style="color:#FF9999; font-size:10px; margin-top:4px; font-weight:400; opacity:0.8;">
-Say Hi!
+<div style="
+width:100%;
+height:100%;
+display:flex;
+align-items:center;
+justify-content:center;
+">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=transparent" alt="Email" style="height:32px; filter: drop-shadow(0 4px 8px rgba(234,67,53,0.6));" />
 </div>
 </div>
 </a>
 
 </td>
-<td style="padding: 8px;">
+<td style="padding: 10px;">
 
 <!-- Portfolio -->
 <a href="https://your-portfolio.com" style="text-decoration:none;">
 <div style="
-width:130px;
-height:130px;
-border-radius:20px;
-background:linear-gradient(145deg, rgba(255,152,0,0.3) 0%, rgba(255,152,0,0.08) 100%);
-border:1px solid rgba(255,152,0,0.4);
+width:90px;
+height:90px;
+border-radius:22px;
+background:linear-gradient(145deg, rgba(255,152,0,0.35) 0%, rgba(255,152,0,0.1) 100%);
+border:2px solid rgba(255,152,0,0.5);
 display:inline-block;
 text-align:center;
 vertical-align:middle;
-box-shadow:0 10px 30px rgba(255,152,0,0.2), inset 0 1px 1px rgba(255,255,255,0.1);
-backdrop-filter: blur(10px);
-padding: 20px 15px;
+box-shadow:0 12px 35px rgba(255,152,0,0.25), inset 0 1px 1px rgba(255,255,255,0.15);
+backdrop-filter: blur(15px);
+transition: all 0.3s ease;
+cursor: pointer;
+position: relative;
 ">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=transparent" alt="Portfolio" style="height:28px; margin-bottom:8px;" />
-<div style="color:#FFB74D; font-size:12px; font-weight:700; margin-top:8px; text-shadow: 0 0 10px rgba(255,183,77,0.5); letter-spacing: 0.5px;">
-Portfolio
-</div>
-<div style="color:#FFCC80; font-size:10px; margin-top:4px; font-weight:400; opacity:0.8;">
-View Work
+<div style="
+width:100%;
+height:100%;
+display:flex;
+align-items:center;
+justify-content:center;
+">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=transparent" alt="Portfolio" style="height:32px; filter: drop-shadow(0 4px 8px rgba(255,152,0,0.6));" />
 </div>
 </div>
 </a>
