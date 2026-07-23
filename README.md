@@ -8,59 +8,149 @@
 -->
 
 <!-- ============================================ -->
-<!-- MODERN HEADER - GLASS MORPHISM WITH PARTICLES -->
+<!-- ULTRA-MODERN HEADER - NEO-BRUTALIST GLASS -->
 <!-- ============================================ -->
 
 <div align="center">
   
   <!-- Animated Gradient Background Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,19,24&height=250&section=header&text=Birhan%20Nega&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Architecting%20Intelligence%20%7C%20Building%20Tomorrow&descAlignY=55&descSize=18&stroke=000000&strokeWidth=0.5" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,19,24&height=300&section=header&text=BIRHAN%20NEGA&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=ARCHITECTING%20INTELLIGENCE%20%7C%20BUILDING%20TOMORROW&descAlignY=55&descSize=16&stroke=000000&strokeWidth=0.5" width="100%"/>
   
   <br/>
   
-  <!-- Animated Avatar with Glow Effect -->
-  <div style="position: relative; display: inline-block; margin-top: -80px;">
-    <div style="position: absolute; top: -8px; left: -8px; right: -8px; bottom: -8px; background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); border-radius: 50%; filter: blur(15px); opacity: 0.7; animation: pulseGlow 2s ease-in-out infinite alternate;"></div>
-    <img src="https://avatars.githubusercontent.com/u/your-user-id?v=4" width="160" height="160" style="border-radius: 50%; border: 4px solid rgba(255,255,255,0.2); position: relative; z-index: 1; backdrop-filter: blur(10px);" alt="Profile Avatar"/>
+  <!-- Cyberpunk Avatar Container -->
+  <div style="position: relative; display: inline-block; margin-top: -100px; margin-bottom: 10px;">
+    <!-- Outer rotating ring -->
+    <div style="position: absolute; top: -20px; left: -20px; right: -20px; bottom: -20px; border-radius: 50%; border: 2px solid transparent; background: linear-gradient(135deg, #667eea, #764ba2, #f093fb, #667eea) border-box; -webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0); mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; animation: rotateBorder 8s linear infinite;"></div>
+    
+    <!-- Pulsing glow rings -->
+    <div style="position: absolute; top: -30px; left: -30px; right: -30px; bottom: -30px; border-radius: 50%; border: 1px dashed rgba(147, 197, 253, 0.3); animation: pulseRing 3s ease-in-out infinite;"></div>
+    <div style="position: absolute; top: -40px; left: -40px; right: -40px; bottom: -40px; border-radius: 50%; border: 1px dashed rgba(240, 147, 251, 0.2); animation: pulseRing 3s ease-in-out infinite 0.5s;"></div>
+    
+    <!-- Glow aura -->
+    <div style="position: absolute; top: -15px; left: -15px; right: -15px; bottom: -15px; background: radial-gradient(circle, rgba(102,126,234,0.4) 0%, rgba(118,75,162,0.2) 40%, transparent 70%); border-radius: 50%; filter: blur(20px); animation: breatheGlow 3s ease-in-out infinite;"></div>
+    
+    <!-- Avatar Image -->
+    <img src="https://avatars.githubusercontent.com/u/your-user-id?v=4" width="180" height="180" style="border-radius: 50%; border: 3px solid rgba(255,255,255,0.15); position: relative; z-index: 1; box-shadow: 0 0 40px rgba(102,126,234,0.3); object-fit: cover;" alt="Profile Avatar"/>
+    
+    <!-- Status dot -->
+    <div style="position: absolute; bottom: 15px; right: 15px; width: 18px; height: 18px; background: #4ADE80; border-radius: 50%; border: 3px solid rgba(0,0,0,0.8); z-index: 2; box-shadow: 0 0 20px rgba(74,222,128,0.6); animation: statusPulse 2s ease-in-out infinite;"></div>
   </div>
   
   <br/>
   
-  <!-- Elegant Name Typography -->
-  <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(20px); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; padding: 30px 50px; max-width: 700px; display: inline-block; margin: 20px 0;">
-    <h1 style="margin: 0; font-size: 42px; background: linear-gradient(135deg, #E2E2E2 0%, #FFFFFF 30%, #C9B8F9 60%, #93C5FD 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: 2px;">
+  <!-- Holographic Name Card -->
+  <div style="background: linear-gradient(135deg, rgba(15, 15, 30, 0.8) 0%, rgba(20, 20, 40, 0.6) 50%, rgba(15, 15, 30, 0.8) 100%); backdrop-filter: blur(40px); border: 1px solid rgba(102,126,234,0.2); border-radius: 30px; padding: 35px 60px; max-width: 750px; display: inline-block; margin: 15px 0; box-shadow: 0 20px 60px rgba(0,0,0,0.3), 0 0 100px rgba(102,126,234,0.1), inset 0 0 30px rgba(102,126,234,0.05); position: relative; overflow: hidden;">
+    
+    <!-- Subtle grid pattern overlay -->
+    <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: linear-gradient(rgba(102,126,234,0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(102,126,234,0.03) 1px, transparent 1px); background-size: 20px 20px; border-radius: 30px; pointer-events: none;"></div>
+    
+    <!-- Corner decorations -->
+    <div style="position: absolute; top: 15px; left: 20px; width: 30px; height: 30px; border-top: 2px solid rgba(102,126,234,0.4); border-left: 2px solid rgba(102,126,234,0.4);"></div>
+    <div style="position: absolute; top: 15px; right: 20px; width: 30px; height: 30px; border-top: 2px solid rgba(240,147,251,0.4); border-right: 2px solid rgba(240,147,251,0.4);"></div>
+    <div style="position: absolute; bottom: 15px; left: 20px; width: 30px; height: 30px; border-bottom: 2px solid rgba(240,147,251,0.4); border-left: 2px solid rgba(240,147,251,0.4);"></div>
+    <div style="position: absolute; bottom: 15px; right: 20px; width: 30px; height: 30px; border-bottom: 2px solid rgba(102,126,234,0.4); border-right: 2px solid rgba(102,126,234,0.4);"></div>
+    
+    <!-- Matrix-style rain effect hint -->
+    <div style="position: absolute; top: -50%; left: -10%; right: -10%; bottom: -50%; opacity: 0.03; background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(147,197,253,0.3) 2px, rgba(147,197,253,0.3) 4px); transform: skewX(-5deg); pointer-events: none;"></div>
+    
+    <h1 style="margin: 0; font-size: 48px; font-weight: 800; background: linear-gradient(135deg, #E2E2E2 0%, #FFFFFF 25%, #C9B8F9 50%, #93C5FD 75%, #E2E2E2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; letter-spacing: 3px; text-shadow: 0 0 40px rgba(147,197,253,0.3); position: relative; z-index: 1;">
       Birhan Nega
     </h1>
-    <div style="width: 120px; height: 2px; background: linear-gradient(90deg, transparent, #764ba2, #f093fb, transparent); margin: 15px auto;"></div>
-    <p style="margin: 0; color: #B8C1EC; font-size: 16px; letter-spacing: 1px; opacity: 0.9;">
-      ML Engineer • Solutions Architect • Creative Technologist
+    
+    <!-- Decorative line with diamond -->
+    <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin: 20px 0; position: relative; z-index: 1;">
+      <div style="flex: 1; height: 1px; background: linear-gradient(90deg, transparent, rgba(102,126,234,0.6));"></div>
+      <div style="width: 8px; height: 8px; background: #93C5FD; transform: rotate(45deg); box-shadow: 0 0 15px rgba(147,197,253,0.8);"></div>
+      <div style="flex: 1; height: 1px; background: linear-gradient(90deg, rgba(240,147,251,0.6), transparent);"></div>
+    </div>
+    
+    <p style="margin: 0 0 8px 0; color: #93C5FD; font-size: 17px; letter-spacing: 2px; font-weight: 300; text-transform: uppercase; position: relative; z-index: 1;">
+      <span style="opacity: 0.7;">[</span> ML Engineer <span style="opacity: 0.5;">•</span> Solutions Architect <span style="opacity: 0.5;">•</span> Creative Technologist <span style="opacity: 0.7;">]</span>
     </p>
-    <div style="display: flex; gap: 15px; justify-content: center; margin-top: 20px;">
-      <span style="background: rgba(118, 75, 162, 0.2); border: 1px solid rgba(118, 75, 162, 0.3); border-radius: 20px; padding: 5px 15px; font-size: 12px; color: #C9B8F9;">🤖 AI/ML</span>
-      <span style="background: rgba(147, 197, 253, 0.2); border: 1px solid rgba(147, 197, 253, 0.3); border-radius: 20px; padding: 5px 15px; font-size: 12px; color: #93C5FD;">☁️ Cloud</span>
-      <span style="background: rgba(240, 147, 251, 0.2); border: 1px solid rgba(240, 147, 251, 0.3); border-radius: 20px; padding: 5px 15px; font-size: 12px; color: #F0D3FB;">🔧 DevOps</span>
+    
+    <p style="margin: 10px 0 0 0; color: #6B7280; font-size: 12px; letter-spacing: 1px; position: relative; z-index: 1;">
+      <span style="opacity: 0.6;">// Building the future, one model at a time</span>
+    </p>
+    
+    <!-- Tech stack pills -->
+    <div style="display: flex; gap: 12px; justify-content: center; margin-top: 25px; flex-wrap: wrap; position: relative; z-index: 1;">
+      <span style="background: rgba(102,126,234,0.15); border: 1px solid rgba(102,126,234,0.3); border-radius: 25px; padding: 7px 18px; font-size: 12px; color: #93C5FD; letter-spacing: 1px; backdrop-filter: blur(10px);">🧠 AI/ML</span>
+      <span style="background: rgba(147,197,253,0.15); border: 1px solid rgba(147,197,253,0.3); border-radius: 25px; padding: 7px 18px; font-size: 12px; color: #93C5FD; letter-spacing: 1px; backdrop-filter: blur(10px);">☁️ Cloud Native</span>
+      <span style="background: rgba(240,147,251,0.15); border: 1px solid rgba(240,147,251,0.3); border-radius: 25px; padding: 7px 18px; font-size: 12px; color: #C9B8F9; letter-spacing: 1px; backdrop-filter: blur(10px);">⚡ DevOps</span>
+      <span style="background: rgba(74,222,128,0.15); border: 1px solid rgba(74,222,128,0.3); border-radius: 25px; padding: 7px 18px; font-size: 12px; color: #4ADE80; letter-spacing: 1px; backdrop-filter: blur(10px);">🔮 MLOps</span>
     </div>
   </div>
 
-  <!-- Animated Status Line -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=18&duration=4000&pause=3000&color=93C5FD&center=true&vCenter=true&width=500&lines=%E2%96%B6+SYSTEM+ONLINE;%E2%96%B6+BUILDING+INTELLIGENT+SYSTEMS;%E2%96%B6+ARCHITECTING+THE+FUTURE;%E2%96%B6+READY+TO+COLLABORATE" alt="Status Typing" />
-  </p>
+  <!-- Animated Terminal Typing -->
+  <div style="background: rgba(0,0,0,0.4); border: 1px solid rgba(102,126,234,0.2); border-radius: 15px; padding: 15px 30px; max-width: 600px; display: inline-block; margin: 20px 0; backdrop-filter: blur(20px);">
+    <div style="display: flex; gap: 8px; margin-bottom: 10px;">
+      <div style="width: 12px; height: 12px; border-radius: 50%; background: #FF5F56;"></div>
+      <div style="width: 12px; height: 12px; border-radius: 50%; background: #FFBD2E;"></div>
+      <div style="width: 12px; height: 12px; border-radius: 50%; background: #27C93F;"></div>
+    </div>
+    <p align="center" style="margin: 0;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=2500&color=93C5FD&center=true&vCenter=true&width=500&lines=%E2%9D%AF+system.status+%3D+%22OPERATIONAL%22;%E2%9D%AF+building+intelligent.systems();%E2%9D%AF+architect.future%7C%7C+create.impact();%E2%9D%AF+ready.to.collaborate+%3D+true;" alt="Terminal Status" />
+    </p>
+    <div style="color: #4ADE80; font-size: 12px; margin-top: 8px; font-family: 'Courier New', monospace;">
+      <span style="opacity: 0.5;">➜ ~ </span><span style="opacity: 0.8;">initializing neural pathways...</span><span style="animation: blink 1s infinite;">▊</span>
+    </div>
+  </div>
 
   <br/>
 
-  <!-- Floating Social & Stats Bar -->
-  <div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(30px); border: 1px solid rgba(255,255,255,0.08); border-radius: 50px; padding: 12px 30px; display: inline-flex; gap: 30px; align-items: center;">
-    <img src="https://komarev.com/ghpvc/?username=Birhan121994&label=VISITORS&color=764ba2&style=flat-square" alt="Profile Views" />
-    <span style="color: rgba(255,255,255,0.3);">|</span>
-    <img src="https://img.shields.io/github/followers/Birhan121994?label=FOLLOWERS&style=flat-square&color=667eea" alt="Followers" />
-    <span style="color: rgba(255,255,255,0.3);">|</span>
-    <img src="https://img.shields.io/github/stars/Birhan121994?label=STARS&style=flat-square&color=f093fb" alt="Stars" />
-    <span style="color: rgba(255,255,255,0.3);">|</span>
-    <span style="color: #B8C1EC; font-size: 13px;">📍 Addis Ababa, Ethiopia</span>
+  <!-- Stats Dashboard Bar -->
+  <div style="background: linear-gradient(135deg, rgba(15, 15, 30, 0.9) 0%, rgba(20, 20, 40, 0.7) 100%); backdrop-filter: blur(30px); border: 1px solid rgba(102,126,234,0.15); border-radius: 60px; padding: 15px 40px; display: inline-flex; gap: 35px; align-items: center; box-shadow: 0 10px 40px rgba(0,0,0,0.3);">
+    
+    <!-- Profile Views -->
+    <div style="display: flex; align-items: center; gap: 12px;">
+      <div style="width: 8px; height: 8px; background: #764ba2; border-radius: 50%; box-shadow: 0 0 15px rgba(118,75,162,0.8);"></div>
+      <img src="https://komarev.com/ghpvc/?username=Birhan121994&label=VISITORS&color=764ba2&style=flat-square" alt="Profile Views" style="height: 20px;" />
+    </div>
+    
+    <!-- Divider -->
+    <div style="width: 1px; height: 25px; background: linear-gradient(180deg, transparent, rgba(102,126,234,0.4), transparent);"></div>
+    
+    <!-- Followers -->
+    <div style="display: flex; align-items: center; gap: 12px;">
+      <div style="width: 8px; height: 8px; background: #667eea; border-radius: 50%; box-shadow: 0 0 15px rgba(102,126,234,0.8);"></div>
+      <img src="https://img.shields.io/github/followers/Birhan121994?label=FOLLOWERS&style=flat-square&color=667eea" alt="Followers" style="height: 20px;" />
+    </div>
+    
+    <!-- Divider -->
+    <div style="width: 1px; height: 25px; background: linear-gradient(180deg, transparent, rgba(102,126,234,0.4), transparent);"></div>
+    
+    <!-- Stars -->
+    <div style="display: flex; align-items: center; gap: 12px;">
+      <div style="width: 8px; height: 8px; background: #f093fb; border-radius: 50%; box-shadow: 0 0 15px rgba(240,147,251,0.8);"></div>
+      <img src="https://img.shields.io/github/stars/Birhan121994?label=STARS&style=flat-square&color=f093fb" alt="Stars" style="height: 20px;" />
+    </div>
+    
+    <!-- Divider -->
+    <div style="width: 1px; height: 25px; background: linear-gradient(180deg, transparent, rgba(102,126,234,0.4), transparent);"></div>
+    
+    <!-- Location -->
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <span style="font-size: 18px;">📍</span>
+      <span style="color: #B8C1EC; font-size: 13px; font-weight: 500; letter-spacing: 1px;">ADDIS ABABA, ET</span>
+    </div>
   </div>
 
+  <!-- Hidden animation keyframes (won't render but shows intent) -->
+  <!-- 
+    @keyframes rotateBorder { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+    @keyframes pulseRing { 0%, 100% { transform: scale(1); opacity: 0.3; } 50% { transform: scale(1.05); opacity: 0.6; } }
+    @keyframes breatheGlow { 0%, 100% { opacity: 0.4; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.1); } }
+    @keyframes statusPulse { 0%, 100% { box-shadow: 0 0 20px rgba(74,222,128,0.6); } 50% { box-shadow: 0 0 40px rgba(74,222,128,0.9); } }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+  -->
+
 </div>
+
+<style>
+  /* GitHub doesn't support actual CSS animations, but this shows the intended effects */
+  /* The inline styles achieve the base look without animations */
+</style>
 
 <br/>
 
