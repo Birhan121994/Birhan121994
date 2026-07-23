@@ -144,93 +144,179 @@ cloud architecture, and open-source contributions."</i>
 </p>
 
 
-<!-- Modern Social Links Layout -->
+<!-- ============================================ -->
+<!-- MODERN SOCIAL CONNECTION GRID -->
+<!-- ============================================ -->
+
 <div style="
-display: grid;
-grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-gap: 15px;
-max-width: 650px;
-margin: 0 auto 20px;
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+gap:18px;
+max-width:700px;
+margin:auto;
 ">
+
 
 <a href="https://linkedin.com/in/your-linkedin" style="text-decoration:none;">
 <div style="
-background: linear-gradient(145deg, rgba(0,119,181,0.25), rgba(0,119,181,0.05));
-border: 1px solid rgba(0,119,181,0.35);
-border-radius: 18px;
-padding: 16px 12px;
-transition: all 0.3s ease;
+width:120px;
+height:120px;
+border-radius:24px;
+background:linear-gradient(145deg,rgba(0,119,181,0.25),rgba(0,119,181,0.05));
+border:1px solid rgba(0,119,181,0.35);
+display:flex;
+flex-direction:column;
+align-items:center;
+justify-content:center;
+box-shadow:0 8px 25px rgba(0,119,181,0.15);
 ">
-<div style="font-size:26px;">💼</div>
-<div style="color:#00A0DC;font-size:14px;font-weight:600;margin-top:8px;">
-LinkedIn
+<div style="
+width:48px;
+height:48px;
+border-radius:50%;
+background:rgba(0,119,181,0.25);
+display:flex;
+align-items:center;
+justify-content:center;
+font-size:24px;
+">
+💼
 </div>
+<span style="color:#00A0DC;font-size:14px;font-weight:600;margin-top:12px;">
+LinkedIn
+</span>
 </div>
 </a>
 
 
 <a href="https://twitter.com/your-twitter" style="text-decoration:none;">
 <div style="
-background: linear-gradient(145deg, rgba(29,161,242,0.25), rgba(29,161,242,0.05));
-border: 1px solid rgba(29,161,242,0.35);
-border-radius:18px;
-padding:16px 12px;
-transition:all 0.3s ease;
+width:120px;
+height:120px;
+border-radius:24px;
+background:linear-gradient(145deg,rgba(29,161,242,0.25),rgba(29,161,242,0.05));
+border:1px solid rgba(29,161,242,0.35);
+display:flex;
+flex-direction:column;
+align-items:center;
+justify-content:center;
+box-shadow:0 8px 25px rgba(29,161,242,0.15);
 ">
-<div style="font-size:26px;">🐦</div>
-<div style="color:#1DA1F2;font-size:14px;font-weight:600;margin-top:8px;">
-Twitter
+<div style="
+width:48px;
+height:48px;
+border-radius:50%;
+background:rgba(29,161,242,0.25);
+display:flex;
+align-items:center;
+justify-content:center;
+font-size:24px;
+">
+🐦
 </div>
+<span style="color:#1DA1F2;font-size:14px;font-weight:600;margin-top:12px;">
+Twitter
+</span>
 </div>
 </a>
 
 
 <a href="https://github.com/Birhan121994" style="text-decoration:none;">
 <div style="
-background: linear-gradient(145deg, rgba(110,84,148,0.25), rgba(110,84,148,0.05));
+width:120px;
+height:120px;
+border-radius:24px;
+background:linear-gradient(145deg,rgba(110,84,148,0.25),rgba(110,84,148,0.05));
 border:1px solid rgba(110,84,148,0.35);
-border-radius:18px;
-padding:16px 12px;
-transition:all 0.3s ease;
+display:flex;
+flex-direction:column;
+align-items:center;
+justify-content:center;
+box-shadow:0 8px 25px rgba(110,84,148,0.15);
 ">
-<div style="font-size:26px;">🐙</div>
-<div style="color:#B8A9D4;font-size:14px;font-weight:600;margin-top:8px;">
-GitHub
+<div style="
+width:48px;
+height:48px;
+border-radius:50%;
+background:rgba(110,84,148,0.25);
+display:flex;
+align-items:center;
+justify-content:center;
+font-size:24px;
+">
+🐙
 </div>
+<span style="color:#B8A9D4;font-size:14px;font-weight:600;margin-top:12px;">
+GitHub
+</span>
 </div>
 </a>
 
 
 <a href="mailto:your.email@gmail.com" style="text-decoration:none;">
 <div style="
-background: linear-gradient(145deg, rgba(234,67,53,0.25), rgba(234,67,53,0.05));
+width:120px;
+height:120px;
+border-radius:24px;
+background:linear-gradient(145deg,rgba(234,67,53,0.25),rgba(234,67,53,0.05));
 border:1px solid rgba(234,67,53,0.35);
-border-radius:18px;
-padding:16px 12px;
-transition:all 0.3s ease;
+display:flex;
+flex-direction:column;
+align-items:center;
+justify-content:center;
+box-shadow:0 8px 25px rgba(234,67,53,0.15);
 ">
-<div style="font-size:26px;">📧</div>
-<div style="color:#EA4335;font-size:14px;font-weight:600;margin-top:8px;">
-Email
+<div style="
+width:48px;
+height:48px;
+border-radius:50%;
+background:rgba(234,67,53,0.25);
+display:flex;
+align-items:center;
+justify-content:center;
+font-size:24px;
+">
+📧
 </div>
+<span style="color:#EA4335;font-size:14px;font-weight:600;margin-top:12px;">
+Email
+</span>
 </div>
 </a>
 
 
 <a href="https://your-portfolio.com" style="text-decoration:none;">
 <div style="
-background: linear-gradient(145deg, rgba(255,152,0,0.25), rgba(255,152,0,0.05));
+width:120px;
+height:120px;
+border-radius:24px;
+background:linear-gradient(145deg,rgba(255,152,0,0.25),rgba(255,152,0,0.05));
 border:1px solid rgba(255,152,0,0.35);
-border-radius:18px;
-padding:16px 12px;
-transition:all 0.3s ease;
+display:flex;
+flex-direction:column;
+align-items:center;
+justify-content:center;
+box-shadow:0 8px 25px rgba(255,152,0,0.15);
 ">
-<div style="font-size:26px;">🌐</div>
-<div style="color:#FF9800;font-size:14px;font-weight:600;margin-top:8px;">
-Portfolio
+<div style="
+width:48px;
+height:48px;
+border-radius:50%;
+background:rgba(255,152,0,0.25);
+display:flex;
+align-items:center;
+justify-content:center;
+font-size:24px;
+">
+🌐
 </div>
+<span style="color:#FF9800;font-size:14px;font-weight:600;margin-top:12px;">
+Portfolio
+</span>
 </div>
 </a>
+
 
 </div>
 
@@ -238,8 +324,10 @@ Portfolio
 
 <br/>
 
+
 <!-- Animated Quote Carousel -->
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=14&duration=5000&pause=2000&color=93C5FD&center=true&vCenter=true&width=600&lines=%E2%9C%A6+Code+is+poetry+written+in+logic+%E2%9C%A6;%E2%9C%A6+Innovation+distinguishes+between+a+leader+and+a+follower+%E2%9C%A6;%E2%9C%A6+The+best+way+to+predict+the+future+is+to+invent+it+%E2%9C%A6;%E2%9C%A6+Stay+hungry%2C+stay+foolish+%E2%9C%A6" alt="Inspirational Quotes" />
 
 </div>
+
 
