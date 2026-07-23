@@ -8,53 +8,15 @@
 -->
 
 <!-- ============================================ -->
-<!-- ELEVATED HEADER - LUXURY MINIMALIST DESIGN   -->
+<!-- MODERN HEADER - GLASS MORPHISM WITH PARTICLES -->
 <!-- ============================================ -->
 
 <div align="center">
   
-  <!-- Premium Animated Header with Sleek Gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,6,10&height=280&section=header&text=Birhan%20Nega&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Architecting%20Intelligence%20%7C%20Building%20Tomorrow&descAlignY=58&descSize=16&stroke=none&strokeWidth=0&fontFamily=Segoe%20UI,Arial,sans-serif&descFontFamily=Segoe%20UI,Arial,sans-serif" width="100%"/>
+  <!-- Animated Gradient Background Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,19,24&height=250&section=header&text=Birhan%20Nega&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Architecting%20Intelligence%20%7C%20Building%20Tomorrow&descAlignY=55&descSize=18&stroke=000000&strokeWidth=0.5" width="100%"/>
   
   <br/>
-  
-  <!-- Refined Glass Card Container -->
-  <div style="background: linear-gradient(135deg, rgba(255,255,255,0.08) 0%, rgba(255,255,255,0.03) 100%); border: 1px solid rgba(255,255,255,0.1); border-radius: 24px; padding: 2rem; backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); max-width: 850px; margin: -20px auto 30px;">
-    
-    <!-- Elegant Typography with Subtle Animation -->
-    <div style="position: relative;">
-      
-      <!-- Glowing Orb Accent -->
-      <div style="position: absolute; top: -10px; left: 50%; transform: translateX(-50%); width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #64ffda, transparent); border-radius: 2px; opacity: 0.8;"></div>
-      
-      <!-- Subtitle Line -->
-      <p style="font-family: 'Segoe UI', Arial, sans-serif; font-size: 1.05rem; color: #8892b0; letter-spacing: 0.35em; margin: 0 0 1.2rem 0; font-weight: 300;">
-        FULL-STACK ENGINEER • AI ARCHITECT • INNOVATOR
-      </p>
-      
-      <!-- Main Tagline -->
-      <h2 style="font-family: 'Segoe UI', Arial, sans-serif; font-size: 1.5rem; background: linear-gradient(135deg, #e0e7ff, #c4b5fd, #93c5fd); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 0; font-weight: 400; line-height: 1.4;">
-        Crafting elegant solutions at the intersection of<br/>artificial intelligence & human experience
-      </h2>
-      
-      <!-- Decorative Divider -->
-      <div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin: 1.5rem 0 0.8rem;">
-        <div style="height: 1px; width: 60px; background: linear-gradient(90deg, transparent, rgba(148, 163, 184, 0.3));"></div>
-        <div style="width: 4px; height: 4px; background: #64ffda; border-radius: 50%; opacity: 0.7;"></div>
-        <div style="height: 1px; width: 60px; background: linear-gradient(90deg, rgba(148, 163, 184, 0.3), transparent);"></div>
-      </div>
-      
-    </div>
-  </div>
-  
-</div>
-
-<!-- Subtle Separator -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:64ffda,100:818cf8&height=1&section=footer&text=&fontSize=0" width="60%" style="opacity: 0.15; margin: 10px 0;"/>
-</div>
-
-<br/>
   
   <!-- Elegant Name Typography -->
   <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(20px); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; padding: 30px 50px; max-width: 700px; display: inline-block; margin: 20px 0;">
