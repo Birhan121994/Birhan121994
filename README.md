@@ -38,6 +38,7 @@ class Birhan:
     
     def say_hi(self):
         print("Thanks for visiting my GitHub! Let's build something amazing together 🚀")
+```
 <!-- Tech Stack with Beautiful Badges -->
 🛠️ My Tech Arsenal
 🤖 Machine Learning & Data Science
