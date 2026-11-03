@@ -278,35 +278,6 @@ justify-content:center;
 </td>
 <td style="padding: 10px;">
 
-<!-- Twitter/X -->
-<a href="https://twitter.com/your-twitter" style="text-decoration:none;">
-<div style="
-width:90px;
-height:90px;
-border-radius:22px;
-background:linear-gradient(145deg, rgba(255,255,255,0.15) 0%, rgba(255,255,255,0.05) 100%);
-border:2px solid rgba(255,255,255,0.25);
-display:inline-block;
-text-align:center;
-vertical-align:middle;
-box-shadow:0 12px 35px rgba(0,0,0,0.3), inset 0 1px 1px rgba(255,255,255,0.15);
-backdrop-filter: blur(15px);
-transition: all 0.3s ease;
-cursor: pointer;
-position: relative;
-">
-<div style="
-width:100%;
-height:100%;
-display:flex;
-align-items:center;
-justify-content:center;
-">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=transparent" alt="Twitter/X" style="height:32px; filter: drop-shadow(0 4px 8px rgba(255,255,255,0.4));" />
-</div>
-</div>
-</a>
-
 </td>
 <td style="padding: 10px;">
 
@@ -343,7 +314,7 @@ justify-content:center;
 <td style="padding: 10px;">
 
 <!-- Email -->
-<a href="mailto:your.email@gmail.com" style="text-decoration:none;">
+<a href="mailto:birhantamiru281@gmail.com" style="text-decoration:none;">
 <div style="
 width:90px;
 height:90px;
