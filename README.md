@@ -276,9 +276,7 @@ justify-content:center;
 </a>
 
 </td>
-<td style="padding: 10px;">
 
-</td>
 <td style="padding: 10px;">
 
 <!-- GitHub -->
