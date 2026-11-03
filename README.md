@@ -247,7 +247,7 @@ cloud architecture, and open-source contributions."</i>
 <td style="padding: 10px;">
 
 <!-- LinkedIn -->
-<a href="https://linkedin.com/in/your-linkedin" style="text-decoration:none;">
+<a href="https://www.linkedin.com/in/birhan-tamiru-616468210/" style="text-decoration:none;">
 <div style="
 width:90px;
 height:90px;
